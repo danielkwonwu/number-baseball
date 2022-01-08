@@ -8,7 +8,7 @@
  * No right numbers is denoted "Out."
 
 ## Development Log
-<details>
-<summary> 1/7/2022 </summary>
-Imported new Spring base with https://start.spring.io/
-</details>
+ <details>
+  <summary> 1/7/2022 </summary>
+  Imported new Spring base with https://start.spring.io/
+ </details>
